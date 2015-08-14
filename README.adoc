@@ -11,7 +11,8 @@ Start with the link:maven-simplest[simplest Maven example] to show you how setup
 
 Use that as a template for setting up a Maven project with Vert.x.
 
-Progress to the link:maven-verticle[simple Maven verticle example] to show you how to deploy your code as verticles in
+Progress to the link:https://github.com/vert-x3/vertx-examples/blob/master/maven-verticle[simple Maven verticle example] 
+to show you how to deploy your code as verticles in
 a Maven project.
 
 == Gradle users
